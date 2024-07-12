@@ -1,0 +1,16 @@
+ipykernel
+ipywidgets==7.7.1
+kaggle
+pandas
+numpy==1.23.5
+python-dotenv
+scikit-learn
+pyarrow
+dataprep
+statsmodels
+xgboost
+mlflow==1.23.1
+protobuf==3.20.3
+torch
+transformers
+coverage

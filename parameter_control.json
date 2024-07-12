@@ -1,0 +1,14 @@
+{
+    "env_file": ".env",
+    "temp_folder": ".temp",
+    "titanic_dataset_zip": ".temp/titanic.zip",
+    "titanic_dataset_raw": "data/bronze/proyecto_titanic",
+    "titanic_dataset_train": "data/bronze/proyecto_titanic/train.csv",
+    "titanic_dataset_test": "data/bronze/proyecto_titanic/test.csv",
+    "titanic_frame_train": "data/silver/proyecto_titanic/train.parquet",
+    "titanic_frame_test": "data/silver/proyecto_titanic/test.parquet",
+    "titanic_modeling_train": "data/silver/proyecto_titanic/train_model_data.parquet",
+    "titanic_modeling_test": "data/silver/proyecto_titanic/test_model_data.parquet",
+    "mlflow_runs": ".mlruns",
+    "mlflow_model_db": ".mlflow.db"
+}
